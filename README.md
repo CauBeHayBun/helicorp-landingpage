@@ -1,12 +1,17 @@
-# BÀI THI VÒNG 2 - TTS IT PHÁT TRIỂN WEBSITE (HELICORP)
+<img width="2880" height="1516" alt="image" src="https://github.com/user-attachments/assets/cf98bda1-e530-41c3-b353-66d4fd23514c" /># BÀI THI VÒNG 2 - TTS IT PHÁT TRIỂN WEBSITE (HELICORP)
 ## DỰ ÁN: LANDING PAGE MÁY LỌC KHÍ THÔNG MINH AURABREATHE
 ---
 
 ## 📌 THÔNG TIN NỘP BÀI
 * **Họ và tên:** VÕ THANH SANG
 * **Link GitHub:** `https://github.com/CauBeHayBun/helicorp-landingpage`
-* **Link Web thực tế (Vercel/Netlify):** [Dán link sau khi deploy vào đây]
-* **Ảnh chụp điểm PageSpeed:** (Đính kèm trong email hoặc lưu vào repo)
+* **Link Web thực tế Vercel:** https://helicorp-landingpage.vercel.app/
+* **Ảnh chụp điểm PageSpeed:**
+  -Di động:
+  <img width="2876" height="1622" alt="image" src="https://github.com/user-attachments/assets/9ff91e3a-0ddc-493a-a27e-26a63b034e91" />
+  -Máy tính:
+  <img width="2880" height="1516" alt="image" src="https://github.com/user-attachments/assets/4b6692d0-ef66-41ba-8d35-00417796a391" />
+
 
 ---
 
@@ -28,15 +33,22 @@
 
 ### 2. Các điểm cộng tích hợp 
 * **Dark Mode**: Toggle chuyển đổi giao diện sáng/tối, tự động lưu trạng thái vào `localStorage`.
+  <img width="2856" height="1530" alt="image" src="https://github.com/user-attachments/assets/6815676b-d54a-4f85-a960-4a523056d0b7" />
+  <img width="2866" height="1524" alt="image" src="https://github.com/user-attachments/assets/14d82370-8e2e-458e-9a94-639618e7fde2" />
+
 * **Scroll Animation**: Hiệu ứng xuất hiện mượt mà khi cuộn trang nhờ *Intersection Observer*.
 * **Mini E-commerce**: 
   * Thanh trượt Giỏ hàng (Cart) và Yêu thích (Wishlist) từ cạnh màn hình.
   * Tự động lưu lịch sử **Sản phẩm đã xem gần đây** khi hover chuột vào sản phẩm quá 1 giây.
   * Đồng bộ giỏ hàng và danh sách yêu thích vào `localStorage`.
+  <img width="2880" height="1472" alt="image" src="https://github.com/user-attachments/assets/a9ebc2c6-bcd5-49a2-9491-1bf6b4a1cc99" />
+
 * **Trợ lý ảo AuraBot (Chatbot)**:
   * Khung chat hỗ trợ tư vấn ở góc màn hình.
   * Trả lời tự động thông minh theo từ khóa hoặc nút chủ đề gợi ý (giá cả, tính năng, bảo hành...).
   * Có hiệu ứng đang soạn tin nhắn (typing indicator).
+  <img width="2832" height="1590" alt="image" src="https://github.com/user-attachments/assets/505eaa7b-724d-41ce-9769-7d4c6455f266" />
+
 * **Webhook & Theo dõi hành vi người dùng (Tracking)**:
   * Gửi dữ liệu đăng ký email về Webhook kèm theo các chỉ số hành vi thực tế: *Số lần click chuột, tỷ lệ % cuộn trang sâu nhất, các section đã xem*.
   * Hiển thị thông báo Toast Notification đẹp mắt.
