@@ -26,7 +26,7 @@
 ## 🚀 CÁC TÍNH NĂNG ĐÃ TRIỂN KHAI
 
 ### 1. Yêu cầu bắt buộc (Hoàn thành 100%)
-* **Hero Section**: Tiêu đề + **Đồ họa SVG động** mô phỏng máy lọc và luồng khí sạch.
+* **Hero Section**: Tiêu đề ""Bầu không khí thuần khiết, cuộc sống vững tâm"." + **Đồ họa SVG động** mô phỏng máy lọc và luồng khí sạch.
 * **Features Section**: Grid hiển thị các công nghệ cốt lõi của máy lọc khí.
 * **Specs Section**: Bảng thông số kỹ thuật chi tiết của thiết bị.
 * **Newsletter Section**: Form đăng ký email có kiểm tra định dạng (Regex).
@@ -39,6 +39,8 @@
 * **Scroll Animation**: Hiệu ứng xuất hiện mượt mà khi cuộn trang nhờ *Intersection Observer*.
 * **Mini E-commerce**: 
   * Thanh trượt Giỏ hàng (Cart) và Yêu thích (Wishlist) từ cạnh màn hình.
+  <img width="2870" height="1522" alt="image" src="https://github.com/user-attachments/assets/09c6f308-f325-460e-8ceb-d76cfd1faf6b" />
+
   * Tự động lưu lịch sử **Sản phẩm đã xem gần đây** khi hover chuột vào sản phẩm quá 1 giây.
   * Đồng bộ giỏ hàng và danh sách yêu thích vào `localStorage`.
   <img width="2880" height="1472" alt="image" src="https://github.com/user-attachments/assets/a9ebc2c6-bcd5-49a2-9491-1bf6b4a1cc99" />
@@ -52,6 +54,10 @@
 * **Webhook & Theo dõi hành vi người dùng (Tracking)**:
   * Gửi dữ liệu đăng ký email về Webhook kèm theo các chỉ số hành vi thực tế: *Số lần click chuột, tỷ lệ % cuộn trang sâu nhất, các section đã xem*.
   * Hiển thị thông báo Toast Notification đẹp mắt.
+  <img width="2850" height="1498" alt="image" src="https://github.com/user-attachments/assets/860a4e49-a336-4a07-a71c-396549e9804e" />
+  <img width="2880" height="886" alt="image" src="https://github.com/user-attachments/assets/7248ca51-030a-4a50-b2db-e39e16dfc8a5" />
+
+
 
 ---
 
