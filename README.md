@@ -1,4 +1,4 @@
-<img width="2880" height="1516" alt="image" src="https://github.com/user-attachments/assets/cf98bda1-e530-41c3-b353-66d4fd23514c" /># BÀI THI VÒNG 2 - TTS IT PHÁT TRIỂN WEBSITE (HELICORP)
+# BÀI THI VÒNG 2 - TTS IT PHÁT TRIỂN WEBSITE (HELICORP)
 ## DỰ ÁN: LANDING PAGE MÁY LỌC KHÍ THÔNG MINH AURABREATHE
 ---
 
